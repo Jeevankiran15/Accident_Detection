@@ -1,0 +1,5 @@
+train: C:\Users\jeeva\OneDrive\Desktop\all data\Projects\Accident detection\AccidentsDetectionYOLOv8\train
+val: C:\Users\jeeva\OneDrive\Desktop\all data\Projects\Accident detection\AccidentsDetectionYOLOv8\valid
+test: C:\Users\jeeva\OneDrive\Desktop\all data\Projects\Accident detection\AccidentsDetectionYOLOv8\test
+nc: 2
+names: ['Accident','no Accident']
